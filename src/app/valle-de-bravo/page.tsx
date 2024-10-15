@@ -16,7 +16,7 @@ const ValleDeBravoPage = () => {
       </Head>
       <a-scene>
         {/* Importa la imagen 360 */}
-        <a-sky src="/images/Valle.jpg"></a-sky>
+        <a-sky src="./images/Valle.jpg"></a-sky>
 
         {/* Texto que aparecerá en la escena */}
         <a-text
